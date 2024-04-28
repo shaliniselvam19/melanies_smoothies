@@ -1,4 +1,5 @@
 #requirements.txt
 snowflake-connector-python
+streamlit.title("My Parents Newly Dinner")
 snowflake-snowpark-python
 streamlit==1.31.1
